@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Aseprite<br>🎯 Goals: Finally publish my game<br>🔎 Happy to help with anything raleted to GDScript or Godot Engine<br>✉️ U can contact me here: dev.grzeskowiak@gmail.com</p>
+<p align="left">📚 I'm currently learning C++<br>🎯 Goals: Finally publish my game<br>🔎 Happy to help with anything raleted to GDScript or Godot Engine<br>✉️ U can contact me here: dev.grzeskowiak@gmail.com</p>
 
 ###
 
