@@ -16,6 +16,7 @@
 ### 🛠 Technologies & Tools I Use
 - **Game Engines:** Unity
 - **Programming Languages:** C#, html, css
+- **Graphics & Animation:** Aseprite
 - **Other Tools:** Postman
 
 ---
@@ -32,7 +33,7 @@ Working on my indie game brings me joy and helps me grow my skills in:
 If you'd like to talk about game development, collaborate on a project, or just exchange ideas, feel free to reach out!  
 
 <p>
-  🐦 <strong>LinkedIn:</strong> <a href="[https://twitter.com/your-twitter](https://www.linkedin.com/in/nikodem-grze%C5%9Bkowiak-85b55427a/)" target="_blank"></a>
+  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/nikodem-grze%C5%9Bkowiak-85b55427a/" target="_blank">Nikodem G.</a>
 </p>
 
 ---
