@@ -1,35 +1,42 @@
-<h1 align="left">Hey</h1>
+<h1 align="center">🌟 Hi, I'm Nikodem! 🌟</h1>
 
-###
+<p align="center">
+💻 Developer | 🎮 Hobbyist Game Creator | 🌍 Technology Enthusiast  
+</p>
 
-<p align="left">My name is Nikodem, and I’m an aspiring indie game developer dedicated to creating unique and engaging gaming experiences. I am currently working with the Godot Engine to bring my ideas to life. I am committed to giving back to the community by sharing innovative solutions and resources for free, helping others on their game development journey. Besides, I work as a Software Validation Engineer.</p>
+---
 
-###
+### 👨‍💻 About Me
+- 🎮 Currently working on: my indie game project, developing it step by step  
+- 🌱 Learning new technologies to enhance my game: Unity
+- 📚 Passionate about: game development, app programming, and building interactive experiences  
 
-<h2 align="left">About me</h2>
+---
 
-###
+### 🛠 Technologies & Tools I Use
+- **Game Engines:** Unity
+- **Programming Languages:** C#, html, css
+- **Other Tools:** Postman
 
-<p align="left">📚 I'm currently learning C++<br>🎯 Goals: Finally publish my game<br>🔎 Happy to help with anything raleted to GDScript or Godot Engine<br>✉️ U can contact me here: dev.grzeskowiak@gmail.com</p>
+---
 
-###
+### 🕹 My Passion – Game Development  
+Working on my indie game brings me joy and helps me grow my skills in:  
+- 👾 Designing gameplay mechanics  
+- 🎨 Creating 2D models and graphical assets  
+- 🛠 Optimizing performance and debugging  
 
-<h2 align="left">I code with</h2>
+---
 
-###
+### 📫 Get in Touch  
+If you'd like to talk about game development, collaborate on a project, or just exchange ideas, feel free to reach out!  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+<p>
+  🐦 <strong>LinkedIn:</strong> <a href="[https://twitter.com/your-twitter](https://www.linkedin.com/in/nikodem-grze%C5%9Bkowiak-85b55427a/)" target="_blank"></a>
+</p>
 
-###
+---
+
+<p align="center">
+  🚀 <strong>Let’s create something amazing together!</strong> 🚀
+</p>
