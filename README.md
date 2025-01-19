@@ -1,43 +1,25 @@
 <h1 align="center">🌟 Hi, I'm Nikodem! 🌟</h1>
 
 <p align="center">
-💻 Developer | 🎮 Hobbyist Game Creator | 🌍 Technology Enthusiast  
+💻 Developer | 🌍 Technology Enthusiast  
 </p>
 
----
-
 ### 👨‍💻 About Me
-- 🎮 Currently working on: my indie game project, developing it step by step  
-- 🌱 Learning new technologies to enhance my game: Unity
-- 📚 Passionate about: game development, app programming, and building interactive experiences  
+Hi there I'm currently working on my desktop application.
 
----
+🚀 **What I Do**  
+- **Software Validation:** Ensuring systems are reliable, high-quality, and robust.  
+- **Software Development:** Leveraging my coding skills in **C#**, **.NET Core**, and **web development** to create side projects and contribute to workplace solutions.  
 
-### 🛠 Technologies & Tools I Use
-- **Game Engines:** Unity
-- **Programming Languages:** C#, html, css
-- **Graphics & Animation:** Aseprite
-- **Other Tools:** Postman
-
----
-
-### 🕹 My Passion – Game Development  
-Working on my indie game brings me joy and helps me grow my skills in:  
-- 👾 Designing gameplay mechanics  
-- 🎨 Creating 2D models and graphical assets  
-- 🛠 Optimizing performance and debugging  
-
----
-
-### 📫 Get in Touch  
-If you'd like to talk about game development, collaborate on a project, or just exchange ideas, feel free to reach out!  
-
+🌐 **Tech Stack I Work With**  
+- **Back-End:** C#, .NET Core, Entity Framework  
+- **Front-End:** HTML, CSS, Vue.js 
+- **Database Tools:** SQL
+- **Development Practices:** Clean Code, Debugging, and Optimizing Code Quality  
+  
+📫 **Let's Connect**  
+If you’re interested in my projects or want to discuss software development and validation practices, feel free to reach out or connect with me!
 <p>
   💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/nikodem-grze%C5%9Bkowiak-85b55427a/" target="_blank">Nikodem G.</a>
 </p>
 
----
-
-<p align="center">
-  🚀 <strong>Let’s create something amazing together!</strong> 🚀
-</p>
